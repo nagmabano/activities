@@ -43,4 +43,9 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="name_label">Your Name</string>
+    <string name="color_label">Your favourite color</string>
+    <string name="snack_label">Your favourite snack</string>
+    <string name="button_label">Submit</string>
+    <string name="message">Hi %s, your favourite color is %s and your favourite snack is %s</string>
 </resources>
